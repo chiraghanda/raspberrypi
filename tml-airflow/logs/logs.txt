@@ -12394,3 +12394,4 @@ branch.main.merge=refs/heads/main
 origin	https://<personal access token hidden>@github.com/chiraghanda/raspberrypi.git (push)
 [INFO 2024-11-17_22:24:20] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-project2-f224.py
 [INFO 2024-11-17_22:24:25] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-project2-f224.py
+[INFO 2024-11-17_22:24:30] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-project2-f224.py
