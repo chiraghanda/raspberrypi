@@ -12502,3 +12502,4 @@ origin	https://<personal access token hidden>@github.com/chiraghanda/raspberrypi
 [INFO 2024-11-26_02:25:43] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-project2-f224.py
 [INFO 2024-11-26_02:25:46] Visualization DAG in tml_system_step_7_kafka_visualization_dag-project2-f224.py
 [INFO 2024-11-26_02:26:05] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-project2-f224.py
+[INFO 2024-11-26_02:26:20] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-project2-f224.py
