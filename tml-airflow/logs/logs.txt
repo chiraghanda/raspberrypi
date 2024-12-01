@@ -12604,3 +12604,4 @@ origin	https://<personal access token hidden>@github.com/chiraghanda/raspberrypi
 [INFO 2024-12-01_19:53:50] Visualization DAG in tml_system_step_7_kafka_visualization_dag-project2-f224.py
 [INFO 2024-12-01_19:54:02] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-project2-f224.py
 [INFO 2024-12-01_19:54:10] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-project2-f224.py
+[INFO 2024-12-01_19:57:33] {'name': ['Project with slug "project2-f224" already exists.']}
