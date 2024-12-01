@@ -12547,3 +12547,4 @@ origin	https://<personal access token hidden>@github.com/chiraghanda/raspberrypi
 [INFO 2024-12-01_18:17:24] Visualization DAG in tml_system_step_7_kafka_visualization_dag-project2-f224.py
 [INFO 2024-12-01_18:17:39] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-project2-f224.py
 [INFO 2024-12-01_18:17:49] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-project2-f224.py
+[ERROR 2024-12-01_18:18:19] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-project2-f224.py the JSON object must be str, bytes or bytearray, not NoneType
